@@ -8,16 +8,16 @@
 <h2>Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
 <ul>
   <li>
-    Im sudhanshu, or syswitzz whatever you prefer, a student from Assam, India!
+    Im ...
   </li>
   <li>
-    Coding is fun for me, and i enjoy it! Mastering Python, and i know basics of other languages, Still learning (Learning will never pause)
+    Still learning (Learning will never pause)
   </li>
   <li>
-    An Anime watcher too, My Top 4: One Piece, Wonder egg priority!, Nichijou, Grand Blue!
+    Yes, I consume fiction to escape reality, My Favourites: Omniscient Reader, Dandadan, The Book Thief, The Penthouse, The Office
   </li>
   <li>
-    At the momment, just testing out new things, have ideas but shortage of time...
+    At the momment, just trying out new things...
   </li>
 </ul>
 
