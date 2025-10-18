@@ -25,7 +25,7 @@
 
 <h2>Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="30"</img></h2>
 
-![](https://skillicons.dev/icons?i=python,c,cpp,figma,vscode,linux,git,github,docker,flask,html,css,postgres,redis,mongodb)
+![](https://skillicons.dev/icons?i=python,c,cpp,figma,vscode,linux,git,github,docker,html,css,postgres,redis,mongodb)
 
 <h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
   
