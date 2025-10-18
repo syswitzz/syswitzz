@@ -5,7 +5,7 @@
   <a href="https://discordapp.com/users/blank"><img src="https://img.shields.io/badge/@syswitzz?style=for-the-badge&logo=discord&logoColor=blue" alt="" srcset=""></a>
 </div>
 
-<h2>Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="22"></h2>
+<h2>Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
 <ul>
   <li>
     Im sudhanshu, or syswitzz whatever you prefer, a student from Assam, India!
