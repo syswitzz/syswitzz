@@ -5,13 +5,10 @@
   <a href="https://discordapp.com/users/blank"><img src="https://img.shields.io/badge/@syswitzz?style=for-the-badge&logo=discord&logoColor=blue" alt="" srcset=""></a>
 </div>
 
-<h2>Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
+<h2>About Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
 <ul>
   <li>
-    Im ...
-  </li>
-  <li>
-    Still learning (Learning will never pause)
+    Currently learning Figma, DSA (C++), Webdev (JS, HTML, CSS, React)
   </li>
   <li>
     Yes, I consume fiction to escape reality, My Favourites: Omniscient Reader, Dandadan, The Book Thief, The Penthouse, The Office
