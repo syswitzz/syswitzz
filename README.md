@@ -2,7 +2,7 @@
 
 <div align = center>
   <a href="https://t.me/syswitzz"><img src="https://img.shields.io/badge/@syswitzz-131621?style=for-the-badge&logo=telegram&logoColor=blue" alt="" srcset=""></a>
-  <a href="https://discordapp.com/users/1100142097669029970"><img src="https://img.shields.io/badge/@syswitzz-blue?logo=discord&logoColor=white" alt="" srcset=""></a>
+  <a href="https://discordapp.com/users/1100142097669029970"><img src="https://img.shields.io/badge/@syswitzz-131621?style=for-the-badge&logo=discord&logoColor=blue" alt="" srcset=""></a>
 </div>
 
 <h2>About Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
