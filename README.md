@@ -8,13 +8,13 @@
 <h2>About Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
 <ul>
   <li>
-    Currently learning Figma, DSA (C++), Webdev (JS, HTML, CSS, React)
+    I'm a self taught programmer and an aspiring software engineer from India.  I code as a hobby and I'm looking forward to build amazing projects in future. 
   </li>
   <li>
-    Yes, I consume fiction to escape reality, My Favourites: Omniscient Reader, Dandadan, The Book Thief, The Penthouse, The Office
+    Currently I'm learning DSA (C++), WebDev (Fullstack) and Figma. Just trying out new things atm...
   </li>
   <li>
-    At the momment, just trying out new things...
+    I consume fiction to escape reality, My Favourites:  The Book Thief, The Penthouse, The Office, Omniscient Reader and Dandadan.
   </li>
 </ul>
 
