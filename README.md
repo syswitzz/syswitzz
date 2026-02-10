@@ -11,7 +11,7 @@
     I'm a self taught programmer and an aspiring software engineer from India.  I code as a hobby and I'm looking forward to build amazing projects in future. 
   </li>
   <li>
-    Currently I'm learning Currently I'm learning Python backend development, DevOps, and cloud infrastructure, while learning web development to better understand end-to-end system design. While also strengthening my problem solving skills throgh DSA (C++)
+    I'm learning Python backend development, DevOps, and cloud infrastructure, while learning web development to better understand end-to-end system design. While also strengthening my problem solving skills throgh DSA (C++)
   </li>
 </ul>
 
