@@ -8,10 +8,10 @@
 <h2>About Me <img src="https://slackmojis.com/emojis/10031-60fps_parrot/download" width="30"></h2>
 <ul>
   <li>
-    I'm a self taught programmer and an aspiring software engineer from India.  I code as a hobby and I'm looking forward to build amazing projects in future. 
+    I'm a Computer Science student from India and a self-taught developer who enjoys building practical software and learning through projects.
   </li>
   <li>
-    I'm learning Python backend development, DevOps, and cloud infrastructure, while learning web development to better understand end-to-end system design. While also strengthening my problem solving skills throgh DSA (C++)
+    I primarily work with Python and backend technologies, while exploring full-stack web development, DevOps, and cloud infrastructure to better understand how modern software systems are built, deployed, and scaled.
   </li>
 </ul>
 
