@@ -313,21 +313,28 @@ Languages:
                 repos += contrib_repos.get("nodes", [])
             else:
                 for repo in contrib_repos.get("nodes", []):
+                    if repo is None:
+                        continue
                     name = repo.get("nameWithOwner")
                     if name in self._ignored_repos or name in self._exclude_repos:
                         continue
                     self._ignored_repos.add(name)
 
             for repo in repos:
+                if repo is None:
+                    continue
                 name = repo.get("nameWithOwner")
                 if name in self._repos or name in self._exclude_repos:
                     continue
                 self._repos.add(name)
-                self._stargazers += repo.get("stargazers").get("totalCount", 0)
+                self._stargazers += (repo.get("stargazers") or {}).get("totalCount", 0)
                 self._forks += repo.get("forkCount", 0)
 
                 for lang in repo.get("languages", {}).get("edges", []):
-                    name = lang.get("node", {}).get("name", "Other")
+                    if not isinstance(lang, dict):
+                        continue
+                    node = lang.get("node") or {}
+                    name = node.get("name", "Other")
                     languages = await self.languages
                     if name in self._exclude_langs: continue
                     if name in languages:
@@ -337,7 +344,7 @@ Languages:
                         languages[name] = {
                             "size": lang.get("size", 0),
                             "occurrences": 1,
-                            "color": lang.get("node", {}).get("color")
+                            "color": node.get("color")
                         }
 
             if owned_repos.get("pageInfo", {}).get("hasNextPage", False) or \
@@ -355,7 +362,7 @@ Languages:
         #       specific filetypes
         langs_total = sum([v.get("size", 0) for v in self._languages.values()])
         for k, v in self._languages.items():
-            v["prop"] = 100 * (v.get("size", 0) / langs_total)
+            v["prop"] = 100 * (v.get("size", 0) / langs_total) if langs_total else 0
 
     @property
     async def name(self) -> str:
